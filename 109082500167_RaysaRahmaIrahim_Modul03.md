@@ -189,7 +189,7 @@ int main()
 
 ##### Output 2
 
-![Screenshot Output Unguided 1_2](https://github.com/raysarahma/109082500167_Struktur-Data_Modul03/blob/main/output/outputsoal01(JAM).png)
+![Screenshot Output Unguided 1_2]()
 
 penjelasan unguided 1 : Program ini memakai struct mahasiswa dan array mhs[10] untuk menyimpan data mahasiswa. Jika jumlah yang diinput lebih dari 10, jumlahnya otomatis dibatasi menjadi 10. Nama dibaca dengan getline supaya nama yang ada spasinya bisa tersimpan, dan cin.ignore() dipakai untuk membuang enter yang tersisa dari input sebelumnya. Nilai akhir dihitung oleh fungsi hitungAkhir dengan rumus 0.3uts + 0.4uas + 0.3tugas, lalu semua data ditampilkan. Contohnya untuk Budi: 0.380 + 0.485 + 0.390 = 24 + 34 + 27 = 85.
 
